@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Shrivasta, You can me anonimo (-.^)</h1>
-<h3 align="center">A passionate software developer from a small town India folded big dreams in his eyes.</h3>
+<h3 align="center">A passionate software developer from a small town of India folded big dreams in his eyes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish9t7&label=Profile%20views&color=0e75b6&style=flat" alt="nitish9t7" /> </p>
 

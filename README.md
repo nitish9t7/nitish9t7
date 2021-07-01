@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish9t7" alt="nitish9t7" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **Kubernetes, System Design and Optimazation**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, Spring Boot**
 
-- 💬 Ask me about **Python, Java, Android, Linux, API, IOT**
+- 💬 Ask me about **Python, Java, Android, Back-end(Linux), API, IOT,**
 
 - 📫 How to reach me **nitish9t7@gmail.com**
 
